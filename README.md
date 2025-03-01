@@ -61,4 +61,6 @@ Modify file_path in main() to specify a different input file.
 Adjust the visualization settings in generate_plots() if needed.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/8cc41725-bfbc-46c2-ac55-30cdf30dc3fa)
+
 [report.pdf](https://github.com/user-attachments/files/19038740/report.pdf)
